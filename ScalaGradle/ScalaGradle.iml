@@ -3,8 +3,8 @@
   <component name="FacetManager">
     <facet type="scala" name="Scala">
       <configuration>
-        <option name="compilerLibraryLevel" value="Global" />
-        <option name="compilerLibraryName" value="akka-actors" />
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="Scala2.10.2" />
       </configuration>
     </facet>
   </component>
@@ -22,9 +22,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="scala-library-2.10.0-RC2" level="project" />
-    <orderEntry type="library" name="scala-compiler-2.10.0-RC2" level="project" />
-    <orderEntry type="library" name="akka-actors" level="application" />
+    <orderEntry type="library" name="Scala2.10.2" level="project" />
   </component>
 </module>
 
