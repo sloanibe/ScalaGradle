@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="config-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/com.typesafe/config/1.0.1/bundle/e1aed022d2af6a54b8d51a03eef4ad6a3d29a42d/config-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/com.typesafe/config/1.0.1/source/a65390d39c50967918f3b4924b152666e9833a5/config-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
